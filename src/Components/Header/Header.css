@@ -1,0 +1,14 @@
+.header nav a{
+    text-decoration: none;
+    color: navy;
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;}
+
+    .contact{
+        margin-left: 300px;
+    }
+    .navtool{
+        margin: 20px;
+        padding:10px ;
+    }
